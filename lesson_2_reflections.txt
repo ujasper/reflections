@@ -27,4 +27,7 @@ history organized? How would branches help?
 	I can clearly see when new branch begins and what changes in parent
 	branches was made after branching and not include in this new branch.
 
+-What is the result of merging two branches together? Why do we represent it
+in the diagram the way we do?
 
+	Commits from two branches merged in one. Such diagram is very convinient
