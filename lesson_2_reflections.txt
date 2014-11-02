@@ -31,3 +31,9 @@ history organized? How would branches help?
 in the diagram the way we do?
 
 	Commits from two branches merged in one. Such diagram is very convinient
+
+-What are the pros and cons of Git's automatic merging vs. always doing merges
+manually?
+
+	pros: automatic merging is simple and fast
+	cons: it can't resolve collision which may occur
