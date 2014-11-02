@@ -1,0 +1,11 @@
+-What happens when you initialize a repository? Why do you need to do it?
+
+	Creates a new repository in current directory which contain initial
+	commit. I need to do it, because this is a way to create a my own repository,
+	which I will use to work with.
+
+-How is the staging area different from the working directory and repository?
+What value do you think it offers?
+
+	Staging area is some kind of a buffer between working directory and
+	repository. So on, we can choose, which file contained into the commit.
