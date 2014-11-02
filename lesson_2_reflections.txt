@@ -16,4 +16,8 @@ change?
 	I can compare my working directory changes with staging area contant to
 	make sure, which files i want to add to commit.
 
+-What are some situations when branches would be helpful in keeping your
+history organized? How would branches help?
 
+	Branches would be helpful in needs of new parallel evolved version or when
+	new functionality tested.
