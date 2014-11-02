@@ -21,3 +21,10 @@ history organized? How would branches help?
 
 	Branches would be helpful in needs of new parallel evolved version or when
 	new functionality tested.
+
+-How do the diagrams help you visualize the branch structure?
+
+	I can clearly see when new branch begins and what changes in parent
+	branches was made after branching and not include in this new branch.
+
+
