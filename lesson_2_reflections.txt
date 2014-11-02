@@ -9,3 +9,11 @@ What value do you think it offers?
 
 	Staging area is some kind of a buffer between working directory and
 	repository. So on, we can choose, which file contained into the commit.
+
+-How can you use the staging area to make sure you have one commit per logical
+change?
+
+	I can compare my working directory changes with staging area contant to
+	make sure, which files i want to add to commit.
+
+
