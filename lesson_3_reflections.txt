@@ -11,3 +11,8 @@
   Clone is a local copy of the repository to work with it on a local machine.
   Branch is a new instance of working material which you can modify and keep without any influence on the main instance of material
   So fork is useful to obtain the copy of repository on different accounts, clone is useful to get the material to local machine and branch is good to work with material and keep main copy safe and sound
+
+-What is the benefit of having a copy of the last known state of the remote stored locally?
+
+  It helps when I need to resolve merging conflict, because with it I can see diferencies which call conflict and so, I can decide< what should be in a merged branch.
+  
