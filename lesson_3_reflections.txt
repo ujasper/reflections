@@ -20,4 +20,10 @@
 
   I can collaborate with a real life discussions, emails, some kind of messengers etc. It depends on problem difficulty, what easier and what exactly consume more time
   
+-When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+  when I work with other people it's good to discuss all new changes before they come to a master branch
+  My colleagues can help me improve this changes and also can emphasize some bugs etc.
+  
+  
   
