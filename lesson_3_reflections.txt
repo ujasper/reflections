@@ -16,3 +16,8 @@
 
   It helps when I need to resolve merging conflict, because with it I can see diferencies which call conflict and so, I can decide< what should be in a merged branch.
   
+-How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+  I can collaborate with a real life discussions, emails, some kind of messengers etc. It depends on problem difficulty, what easier and what exactly consume more time
+  
+  
